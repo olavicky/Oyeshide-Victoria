@@ -55,13 +55,5 @@ Here are some projects that reflect my skills and interests:
 - 📊 **Personal Finance Dashboard in Excel**  
 - 🎓 **Undergraduate Journey Visualized as a Dashboard**  
 
----
-
-### 📫 Let's Connect
-
-I'm open to collaboration, feedback, and opportunities:  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Email](mailto:your@email.com)
-
----
 
 *“Turning data into insights, and insights into action.”*

@@ -1,7 +1,25 @@
-# 👋 Hi there, I'm Oyeshide Victoria
+<h1 align="center">hey there 👋</h1>
 
-🎓 **Economist | Researcher | Data Analyst | Business Intelligence Analyst**  
-💡 Passionate about helping businesses make growth-driven decisions through data  
+###
+
+<p align="left">I'm Oyeshide Victoria, a data and business intelligence analyst actively developing data-driven solutions to real-world business challenges, with a focus on business performance, customer behavior, and financial analysis — all with an emphasis on generating actionable insights.</p>
+
+###
+
+<div align="center">
+  <a href="linkedin.com/in/oyevic" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://wa.link/a4ph2f" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://oyeshidevictoria@gmail.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 ---
 

@@ -13,7 +13,7 @@ To bridge the gap between data and decision-making by transforming raw data into
 
 ### 👩🏽‍💻 About Me
 
-I'm andata analyst with a background in Economics. My journey into data analysis started with a strong curiosity about how data shapes business outcomes. Since then, I’ve developed hands-on experience working with real datasets, building dashboards, and communicating insights that matter.
+I'm a data analyst with a background in Economics. My journey into data analysis started with a strong curiosity about how data shapes business outcomes. Since then, I’ve developed hands-on experience working with real datasets, building dashboards, and communicating insights that matter.
 
 I enjoy diving deep into data to uncover patterns, visualize results, and support strategic decision-making.
 
@@ -21,10 +21,10 @@ I enjoy diving deep into data to uncover patterns, visualize results, and suppor
 
 ### 🧰 Skills & Tools
 
-- **Languages & Querying:** SQL, DAX, Python (beginner)  
-- **Analytics & Visualization:** Power BI, Microsoft Excel, Power Query  
+- **Languages & Querying:** SQL, DAX
+- **Analytics & Visualization:** Power BI, Microsoft Excel, SQL
 - **Data Tasks:** Cleaning, transformation, exploration, insight generation  
-- **Other Tools:** Git & GitHub, Sage Accounting (basic)
+- **Other Tools:** Git & GitHub, Sage Accounting 
 
 ---
 

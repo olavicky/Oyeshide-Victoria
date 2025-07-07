@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+![image](https://github.com/user-attachments/assets/b5f11d3b-bda2-488e-9bc3-ae62274e0d88)<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -36,14 +36,14 @@ I enjoy diving deep into data to uncover patterns, visualize results, and suppor
 
 ---
 
-### 🧰 Skills & Tools
+🛠️ Tools
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="40" height="40" />
+  <img src = "https://camo.githubusercontent.com/4b3ae52d34da9c586c03e49de38da09c76774bb55008e5ba85a526cbd31f6c21/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d34382669643d3373474f55446f396e4a346b26666f726d61743d706e67" alt="Power BI" width="40" height="40"/> 
+</p>
 
-- **Languages & Querying:** SQL, DAX
-- **Analytics & Visualization:** Power BI, Microsoft Excel, SQL
-- **Data Tasks:** Cleaning, transformation, exploration, insight generation  
-- **Other Tools:** Git & GitHub, Sage Accounting 
 
----
 
 ### 📁 Featured Projects
 
